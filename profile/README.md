@@ -1,5 +1,3 @@
-# Welcome to BountyHub 👋
-
 ![BountyHub Logo](https://bountyhub.s3.fr-par.scw.cloud/bountyhub-logo.png)
 
 BountyHub is a collaborative platform where open-source enthusiasts can place bounties on GitHub issues and incentivize developers to solve them. Whether you're a project maintainer looking for contributors or a developer eager to earn by solving issues, BountyHub bridges the gap between the two.
